@@ -8,4 +8,4 @@ This sketch is based on Adafruit Library, I modified the example "buttoncycler" 
 Include 30 different switchable effect.
 I used ws2812b strip led 60 led/m(5 volt)
 
-![name-of-you-image](https://your-copied-image-address)
+![name-of-you-image](https://raw.githubusercontent.com/simoneandrei/Lumino-Ledcontroller-Neopixel-Arduino/main/image/ARDUINO%20STRIP.PNG)
