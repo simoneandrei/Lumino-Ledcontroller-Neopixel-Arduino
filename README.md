@@ -28,7 +28,11 @@ the Data_in shifted from the classic strips (usually it is in the middle, betwee
 REQUIRES
 
 -Download Neopixel Library and install it. https://github.com/adafruit/Adafruit_NeoPixel
+
 -Arduino uno board
+
 -Push Button 
+
 -380 Ω Resistor
+
 -1k Ω Resistor
