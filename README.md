@@ -24,3 +24,11 @@ the Data_in shifted from the classic strips (usually it is in the middle, betwee
 
 
 ![name-of-you-image](https://raw.githubusercontent.com/simoneandrei/Lumino-Ledcontroller-Neopixel-Arduino/main/image/ARDUINO%20STRIP.PNG)
+
+REQUIRES
+
+-Download Neopixel Library and install it. https://github.com/adafruit/Adafruit_NeoPixel
+-Arduino uno board
+-Push Button 
+-380 Ω Resistor
+-1k Ω Resistor
