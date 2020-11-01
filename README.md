@@ -36,3 +36,10 @@ REQUIRES
 -380 Ω Resistor
 
 -1k Ω Resistor
+
+NOTE
+
+Ho deciso di modificare lo sketch di esempio "buttoncycler" della libreria Neopixel Adafruit, poichè gli effeti terminavano dopo un ciclo.
+Aggiunto quindi un interrupt e il salvataggio del ciclo in EEPROM, il loop di un singolo effetto continua fino alla pressione del tasto, che porta
+all'effetto successivo.
+
