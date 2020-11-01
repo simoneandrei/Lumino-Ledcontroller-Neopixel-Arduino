@@ -3,6 +3,8 @@ NeoPixel strip controller with 30 effects sketch (c) 2020 Andrei Simone
 Released under the GPLv3 license to match the rest of the Adafruit NeoPixel library
 
 
+
+
 Questo Sketch è basato sulla libreria Adafruit, modificando l'esempio "buttoncycler" aggiungendo un interrupt.
 include 30 diversi effetti switchabili con il pulsante.
 La strip che ho usato è una ws2812b 60 led/metro(5 volt).
